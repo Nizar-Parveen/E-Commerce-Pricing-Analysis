@@ -1,0 +1,501 @@
+Product_ID,Product_Name,Category,Our_Price,Competitor_A_Price,Competitor_B_Price,Stock,Rating,Last_Updated
+1,Office Chair,Home,,1496,2252,339,,11/30/2024
+2,Yoga Mat,Furniture,4021,,,96,,11/26/2024
+3,Water Bottle,Electronics,1296,,319,273,,10/26/2024
+4,Cotton Shirt,Accessories,781,4945,,278,,10/5/2024
+5,Office Chair,Accessories,,,1725,445,4.2,9/7/2024
+6,Running Shoes,Home,,5644,3593,293,,9/15/2024
+7,Headphones,Home,3576,,2356,157,,10/31/2024
+8,Water Bottle,Fashion,3070,,,46,,9/5/2024
+9,Backpack,Accessories,1831,,,182,,11/15/2024
+10,Cotton Shirt,Electronics,,4667,,140,3.5,9/11/2024
+11,Gaming Keyboard,Electronics,3529,,1692,44,3.3,9/19/2024
+12,Wireless Mouse,Fashion,4259,,2586,160,,10/9/2024
+13,Wireless Mouse,Electronics,1302,,1709,153,3.5,10/30/2024
+14,Mixer Grinder,Furniture,2313,,,95,4.2,9/4/2024
+15,Bluetooth Speaker,Electronics,,874,,369,3.9,10/30/2024
+16,Backpack,Accessories,1266,,2133,324,3.1,9/27/2024
+17,Mixer Grinder,Fashion,,1920,,16,,10/7/2024
+18,Mixer Grinder,Fashion,5716,,5175,143,,10/6/2024
+19,Running Shoes,Electronics,,,2244,148,,9/15/2024
+20,Running Shoes,Accessories,,3773,,461,3.4,9/22/2024
+21,Running Shoes,Electronics,,1177,1248,284,,10/25/2024
+22,Laptop Bag,Electronics,,1087,,150,4.2,9/4/2024
+23,Bluetooth Speaker,Home,,715,,35,4,10/22/2024
+24,Cotton Shirt,Fashion,,783,,33,4.8,9/17/2024
+25,Smart Watch,Electronics,2235,,1575,241,,11/21/2024
+26,Bluetooth Speaker,Electronics,,4946,3157,348,,9/29/2024
+27,Headphones,Accessories,,,,91,,9/14/2024
+28,Electric Kettle,Home,,5604,752,390,,10/12/2024
+29,Backpack,Accessories,,3702,5949,193,,10/30/2024
+30,Bluetooth Speaker,Electronics,,372,2589,499,4,9/2/2024
+31,LED Bulb Pack,Fashion,2706,2690,1846,201,3.3,9/8/2024
+32,Headphones,Accessories,,2735,,218,3.4,10/23/2024
+33,Wall Clock,Accessories,,,5167,457,,9/9/2024
+34,Backpack,Furniture,2340,983,5436,450,3.9,9/14/2024
+35,Wall Clock,Accessories,,2653,,207,3.2,9/16/2024
+36,Mobile Cover,Furniture,,,,302,,10/11/2024
+37,Electric Kettle,Fashion,1789,1858,3467,430,4.7,11/18/2024
+38,Mobile Cover,Furniture,,,3215,341,,11/11/2024
+39,Gaming Keyboard,Electronics,5263,,376,309,,11/10/2024
+40,LED Bulb Pack,Home,,,,281,,10/8/2024
+41,Backpack,Furniture,,,5692,55,4.1,9/19/2024
+42,Backpack,Accessories,5547,,5208,468,3.8,9/5/2024
+43,Desk Lamp,Electronics,5184,1429,3411,334,,10/3/2024
+44,Laptop Bag,Electronics,,,,399,,11/16/2024
+45,Yoga Mat,Home,,,,255,,10/29/2024
+46,Mixer Grinder,Furniture,,,4411,204,4.3,10/31/2024
+47,Mixer Grinder,Furniture,4501,3191,3514,75,3.8,9/12/2024
+48,Desk Lamp,Home,1567,,,349,,9/27/2024
+49,Mixer Grinder,Fashion,5052,3544,5550,181,4.4,10/27/2024
+50,Laptop Bag,Fashion,,,,425,4.4,10/27/2024
+51,Cotton Shirt,Electronics,2089,,,301,4.6,11/7/2024
+52,Headphones,Electronics,3009,1476,,421,4,11/7/2024
+53,Study Table,Electronics,,,,0,,9/7/2024
+54,Cotton Shirt,Fashion,,2921,2663,56,3.4,10/14/2024
+55,Mobile Cover,Accessories,,,1192,411,3.6,11/11/2024
+56,Office Chair,Electronics,1686,1721,,474,,10/24/2024
+57,Power Bank,Fashion,634,2460,,287,,9/16/2024
+58,Yoga Mat,Accessories,1341,,4775,399,,9/25/2024
+59,LED Bulb Pack,Furniture,,3290,,72,3.7,9/26/2024
+60,Yoga Mat,Furniture,3742,,333,143,3.2,11/5/2024
+61,Study Table,Fashion,,2649,,87,4,10/19/2024
+62,Mobile Cover,Furniture,,2948,4976,329,4.4,10/20/2024
+63,Gaming Keyboard,Electronics,,678,1560,26,4.7,10/13/2024
+64,Mobile Cover,Furniture,3312,5644,2617,261,3.1,10/29/2024
+65,Bluetooth Speaker,Home,,,264,232,,9/7/2024
+66,Study Table,Furniture,5730,3532,,364,,9/7/2024
+67,Cotton Shirt,Fashion,,1688,,188,3.5,10/22/2024
+68,Office Chair,Electronics,964,2369,,196,,10/12/2024
+69,LED Bulb Pack,Furniture,,1855,,118,,11/19/2024
+70,Desk Lamp,Home,5189,,5642,207,,11/1/2024
+71,Wall Clock,Furniture,,,,3,,10/5/2024
+72,Desk Lamp,Furniture,,235,,2,,9/18/2024
+73,Smart Watch,Accessories,4009,2237,,132,,11/5/2024
+74,Wireless Mouse,Home,,5940,5582,20,4.1,10/3/2024
+75,Bluetooth Speaker,Furniture,1338,,5878,276,3.8,11/24/2024
+76,Power Bank,Fashion,3332,,,180,,9/19/2024
+77,Yoga Mat,Furniture,,,4689,138,,11/25/2024
+78,Running Shoes,Electronics,3284,,2490,320,4.2,9/2/2024
+79,Bluetooth Speaker,Home,,,1567,447,4.2,11/12/2024
+80,Water Bottle,Furniture,,1866,,388,,9/28/2024
+81,Mobile Cover,Fashion,3979,,,329,4.6,10/10/2024
+82,Laptop Bag,Home,,5612,,299,4.2,9/28/2024
+83,Backpack,Accessories,,,,412,,10/31/2024
+84,Laptop Bag,Furniture,,,3331,95,,11/17/2024
+85,Backpack,Furniture,,2007,4395,63,3.5,10/1/2024
+86,Study Table,Home,,,4754,105,,10/21/2024
+87,Backpack,Fashion,2064,3394,,225,3.4,10/29/2024
+88,Bluetooth Speaker,Fashion,5968,4687,,195,,9/18/2024
+89,Wireless Mouse,Furniture,,,,164,,10/27/2024
+90,Cotton Shirt,Electronics,2032,,5931,408,3,11/14/2024
+91,LED Bulb Pack,Furniture,,2479,,321,4.8,9/12/2024
+92,Bluetooth Speaker,Fashion,,,2459,215,,10/12/2024
+93,Mobile Cover,Fashion,1341,3598,,349,4.4,11/4/2024
+94,Gaming Keyboard,Accessories,,,511,398,,11/1/2024
+95,Wall Clock,Electronics,5072,,939,308,4.4,9/5/2024
+96,Smart Watch,Furniture,,,5949,53,,11/22/2024
+97,Office Chair,Furniture,,,4345,306,,9/19/2024
+98,Wall Clock,Furniture,,,,195,,10/29/2024
+99,Wall Clock,Fashion,4290,5274,,211,,9/10/2024
+100,Backpack,Electronics,,1552,3707,229,4.1,10/18/2024
+101,Cotton Shirt,Fashion,,,,290,,9/19/2024
+102,Running Shoes,Home,,1634,2186,304,,10/13/2024
+103,Desk Lamp,Fashion,1215,,,233,,11/5/2024
+104,Bluetooth Speaker,Furniture,,,1653,182,,9/16/2024
+105,Laptop Bag,Home,,,,97,4.1,9/18/2024
+106,Smart Watch,Home,,,2376,454,,11/21/2024
+107,Water Bottle,Furniture,,,,431,4.4,9/19/2024
+108,Study Table,Electronics,4878,,,347,,10/15/2024
+109,Office Chair,Home,,4443,,168,,9/27/2024
+110,Water Bottle,Accessories,1803,485,5549,10,3.7,10/30/2024
+111,Gaming Keyboard,Accessories,4888,,204,7,,11/7/2024
+112,Wall Clock,Accessories,1138,,,88,4.4,10/30/2024
+113,Running Shoes,Fashion,1288,,,58,,9/1/2024
+114,Headphones,Electronics,1124,3369,,229,,9/29/2024
+115,Office Chair,Fashion,878,,,421,,11/22/2024
+116,Wireless Mouse,Electronics,,,,369,,11/10/2024
+117,Water Bottle,Furniture,4361,,4355,295,,10/23/2024
+118,Wall Clock,Electronics,4462,2334,,122,4,9/29/2024
+119,Bluetooth Speaker,Fashion,,5877,,2,3.9,11/18/2024
+120,Mobile Cover,Furniture,,,1367,49,3.3,11/27/2024
+121,Study Table,Furniture,,5513,,222,,9/9/2024
+122,Cotton Shirt,Home,5734,,,285,,9/8/2024
+123,Wall Clock,Fashion,,1848,4294,419,,10/23/2024
+124,Gaming Keyboard,Home,5817,2659,5658,445,4.6,10/20/2024
+125,Wall Clock,Accessories,4741,5017,2844,189,,10/26/2024
+126,Running Shoes,Electronics,,,,134,,10/13/2024
+127,Mobile Cover,Fashion,,3306,2853,293,4.5,11/22/2024
+128,Backpack,Furniture,,2667,,189,4,10/22/2024
+129,Yoga Mat,Home,3919,,1386,210,,10/14/2024
+130,Office Chair,Fashion,,,,96,4.3,10/20/2024
+131,Smart Watch,Home,3933,,,340,,11/24/2024
+132,Wall Clock,Furniture,2742,5509,3167,350,4.5,11/27/2024
+133,Backpack,Fashion,,2464,3499,190,,10/12/2024
+134,LED Bulb Pack,Electronics,,2628,2687,419,,9/7/2024
+135,Office Chair,Accessories,5450,,,304,,9/29/2024
+136,Desk Lamp,Furniture,436,,3335,448,4.6,9/5/2024
+137,Backpack,Home,1108,,,167,,10/2/2024
+138,LED Bulb Pack,Accessories,1958,3809,1584,239,,10/29/2024
+139,Smart Watch,Electronics,,5994,,419,3.7,10/2/2024
+140,Bluetooth Speaker,Furniture,,,5436,126,4.1,11/4/2024
+141,Power Bank,Accessories,,,3115,124,,11/29/2024
+142,LED Bulb Pack,Electronics,,,,251,4.1,10/20/2024
+143,Wall Clock,Home,,,600,85,,9/13/2024
+144,Cotton Shirt,Furniture,,3575,,71,4.2,10/9/2024
+145,Wall Clock,Furniture,,1104,5619,115,,10/13/2024
+146,Water Bottle,Electronics,,596,,249,4.1,9/24/2024
+147,Wireless Mouse,Electronics,,,987,383,3.7,9/18/2024
+148,Electric Kettle,Electronics,,,3359,114,3.8,9/6/2024
+149,Desk Lamp,Fashion,2867,5694,1519,44,4.5,11/30/2024
+150,Study Table,Fashion,4801,2339,337,5,,10/29/2024
+151,Wireless Mouse,Home,1476,2669,2574,416,4.7,11/26/2024
+152,Power Bank,Furniture,1455,5569,349,289,3.9,11/15/2024
+153,Mobile Cover,Accessories,,,3080,80,3.8,11/8/2024
+154,Laptop Bag,Electronics,,1954,5268,455,,11/23/2024
+155,Backpack,Accessories,,3955,5799,196,4,9/16/2024
+156,Mobile Cover,Home,4900,,4476,141,4.8,9/10/2024
+157,Study Table,Accessories,329,5332,2380,395,,11/10/2024
+158,Power Bank,Home,,3550,,201,,10/28/2024
+159,Study Table,Fashion,,315,942,396,3.1,10/25/2024
+160,Water Bottle,Home,,,4985,298,,10/13/2024
+161,Bluetooth Speaker,Electronics,,4775,,384,,11/11/2024
+162,Smart Watch,Electronics,1497,,2756,129,,11/7/2024
+163,Study Table,Home,989,3232,,324,,10/18/2024
+164,Water Bottle,Accessories,774,873,3445,436,,11/23/2024
+165,Headphones,Furniture,,2086,,465,,9/19/2024
+166,Yoga Mat,Electronics,,,4968,336,4.7,9/16/2024
+167,Laptop Bag,Accessories,,,,154,,9/1/2024
+168,LED Bulb Pack,Electronics,5632,,,157,,10/10/2024
+169,Mobile Cover,Accessories,677,,,351,3,10/28/2024
+170,Backpack,Furniture,,,,422,4.7,9/25/2024
+171,Bluetooth Speaker,Electronics,,,,312,,9/18/2024
+172,LED Bulb Pack,Electronics,1060,,338,159,,11/6/2024
+173,Yoga Mat,Electronics,,4684,,14,,11/16/2024
+174,Headphones,Accessories,,,3412,145,,11/19/2024
+175,Cotton Shirt,Accessories,,2600,,231,3.6,10/24/2024
+176,LED Bulb Pack,Fashion,4683,4625,5216,126,,10/27/2024
+177,LED Bulb Pack,Furniture,,2478,,475,3.3,11/22/2024
+178,Water Bottle,Furniture,,5271,5379,365,,9/30/2024
+179,Electric Kettle,Home,935,,,37,,10/23/2024
+180,Laptop Bag,Electronics,5061,,,148,3.1,11/27/2024
+181,Desk Lamp,Home,4523,3574,,411,3.7,10/30/2024
+182,Laptop Bag,Fashion,,4035,,162,3.7,9/28/2024
+183,Office Chair,Electronics,1590,5484,3657,146,,11/17/2024
+184,Bluetooth Speaker,Home,2467,,,345,4.1,9/20/2024
+185,Electric Kettle,Furniture,2872,,2991,378,,9/4/2024
+186,Power Bank,Furniture,1993,5972,,204,,9/12/2024
+187,Study Table,Home,5013,1347,4172,313,3.6,10/24/2024
+188,Mixer Grinder,Furniture,1732,1511,407,96,,10/14/2024
+189,Headphones,Home,4139,,1085,16,,11/23/2024
+190,LED Bulb Pack,Fashion,,,5634,162,,11/15/2024
+191,Electric Kettle,Furniture,4404,5110,4057,225,4,11/28/2024
+192,Laptop Bag,Fashion,,,,287,,10/31/2024
+193,Backpack,Home,5496,,,75,3.1,11/3/2024
+194,Water Bottle,Accessories,3129,,1385,84,,9/16/2024
+195,LED Bulb Pack,Accessories,,5371,,173,,11/1/2024
+196,LED Bulb Pack,Electronics,4473,,4383,425,,11/5/2024
+197,Water Bottle,Home,,4040,,35,3.3,11/22/2024
+198,Running Shoes,Accessories,,1587,5117,487,3.3,10/9/2024
+199,Yoga Mat,Fashion,3578,,3259,418,,11/10/2024
+200,Running Shoes,Fashion,,3820,4603,40,,11/20/2024
+201,Headphones,Electronics,1589,1225,,288,,11/17/2024
+202,Gaming Keyboard,Home,,1969,5915,83,4.4,11/8/2024
+203,Desk Lamp,Fashion,4530,3405,,349,3.8,10/7/2024
+204,Mobile Cover,Accessories,,3554,3745,280,,11/8/2024
+205,Smart Watch,Electronics,,,4734,404,4,10/25/2024
+206,Running Shoes,Home,,4951,,285,3.7,9/24/2024
+207,Mobile Cover,Electronics,2296,,2608,455,,9/30/2024
+208,Laptop Bag,Fashion,5994,1831,5274,331,3.7,10/23/2024
+209,Running Shoes,Fashion,,5569,4815,115,,10/28/2024
+210,Wall Clock,Furniture,5989,5493,873,468,,11/3/2024
+211,Cotton Shirt,Electronics,305,,912,178,,10/21/2024
+212,Desk Lamp,Home,2675,265,,299,,10/29/2024
+213,Water Bottle,Furniture,5023,,286,438,4.3,10/2/2024
+214,LED Bulb Pack,Furniture,1226,,,32,,11/18/2024
+215,Cotton Shirt,Home,5066,4579,5036,242,,11/5/2024
+216,Mixer Grinder,Home,4776,,,99,,9/16/2024
+217,Water Bottle,Electronics,3919,4239,911,429,,10/17/2024
+218,Water Bottle,Electronics,4292,531,,372,,9/1/2024
+219,LED Bulb Pack,Electronics,,,3764,403,,11/18/2024
+220,Smart Watch,Fashion,3257,1620,3890,497,3.6,10/11/2024
+221,Smart Watch,Furniture,,,,389,,11/6/2024
+222,Power Bank,Electronics,,3810,,424,4.1,10/5/2024
+223,Electric Kettle,Furniture,,,,297,3.1,11/3/2024
+224,Mixer Grinder,Home,,,,311,,11/30/2024
+225,Mixer Grinder,Fashion,3566,,1430,26,,11/15/2024
+226,Yoga Mat,Home,,,,481,4.7,9/25/2024
+227,Desk Lamp,Accessories,5251,5289,,372,3.6,11/7/2024
+228,Power Bank,Electronics,,360,3186,412,4.6,10/18/2024
+229,Office Chair,Furniture,,5789,,294,3.8,10/11/2024
+230,Desk Lamp,Accessories,,921,2899,310,3.8,11/7/2024
+231,Water Bottle,Electronics,,,3853,231,4.5,11/21/2024
+232,Power Bank,Furniture,,602,,34,,11/15/2024
+233,Office Chair,Fashion,1487,1272,,495,,9/18/2024
+234,Mixer Grinder,Furniture,,3486,,347,3.9,11/9/2024
+235,Headphones,Accessories,2885,2951,2363,359,3.2,11/24/2024
+236,Mobile Cover,Electronics,,,,301,3.9,10/9/2024
+237,Electric Kettle,Accessories,,1838,,87,3,10/25/2024
+238,Smart Watch,Furniture,,3950,1164,254,4.7,9/5/2024
+239,LED Bulb Pack,Accessories,,,,187,,9/7/2024
+240,Desk Lamp,Accessories,5451,4588,1293,359,,10/25/2024
+241,Mobile Cover,Fashion,,,,367,,10/6/2024
+242,Gaming Keyboard,Fashion,3809,2444,,463,4.1,9/9/2024
+243,Water Bottle,Fashion,,,2746,93,,9/15/2024
+244,Backpack,Furniture,,5908,,125,,9/20/2024
+245,Bluetooth Speaker,Accessories,,,,73,3.8,9/25/2024
+246,LED Bulb Pack,Electronics,,,5173,344,3.2,11/6/2024
+247,Yoga Mat,Electronics,,,5293,484,,9/22/2024
+248,Smart Watch,Electronics,,614,,222,3.9,10/31/2024
+249,Cotton Shirt,Home,1539,1722,,285,,9/17/2024
+250,Smart Watch,Electronics,4856,3748,,74,3.1,11/21/2024
+251,Running Shoes,Furniture,,2421,4247,76,4.5,10/20/2024
+252,Water Bottle,Electronics,,,,158,,11/6/2024
+253,Wireless Mouse,Electronics,,,1107,92,,9/8/2024
+254,LED Bulb Pack,Furniture,5246,,1714,150,4.3,10/19/2024
+255,Water Bottle,Electronics,,3875,5208,128,,10/19/2024
+256,Study Table,Accessories,,,1689,155,,9/22/2024
+257,Mobile Cover,Home,4689,1846,,172,,9/11/2024
+258,Wireless Mouse,Electronics,2473,,5988,153,,9/8/2024
+259,Smart Watch,Fashion,2224,,5211,137,4.6,11/30/2024
+260,Backpack,Accessories,,4509,4214,410,,11/8/2024
+261,Cotton Shirt,Electronics,,,,55,4.5,9/1/2024
+262,Cotton Shirt,Fashion,1325,,,167,,10/27/2024
+263,Wall Clock,Electronics,,,,345,4,9/1/2024
+264,Water Bottle,Electronics,,,5230,495,4,9/18/2024
+265,Mobile Cover,Fashion,,,2392,111,,11/10/2024
+266,Mixer Grinder,Home,888,,,115,,9/3/2024
+267,Running Shoes,Furniture,,,,77,3.1,9/30/2024
+268,LED Bulb Pack,Furniture,,4953,4995,52,,10/1/2024
+269,Desk Lamp,Fashion,,,5819,421,4.3,11/18/2024
+270,Desk Lamp,Accessories,,,,222,4.6,11/7/2024
+271,Bluetooth Speaker,Home,,,,241,,10/19/2024
+272,Power Bank,Fashion,,4122,,481,,10/4/2024
+273,Mobile Cover,Accessories,,,,82,,9/20/2024
+274,Backpack,Home,1022,3284,2192,148,,11/25/2024
+275,Office Chair,Fashion,,2514,4509,40,,11/1/2024
+276,Water Bottle,Home,1127,,,28,4.5,11/19/2024
+277,Backpack,Accessories,5239,,2824,489,3.5,11/11/2024
+278,Bluetooth Speaker,Electronics,,,,143,4.2,11/20/2024
+279,Study Table,Home,,224,,171,,11/12/2024
+280,Desk Lamp,Home,1535,,,289,4.7,11/9/2024
+281,Desk Lamp,Accessories,1986,4720,4309,135,,9/12/2024
+282,Electric Kettle,Fashion,,,,9,,11/28/2024
+283,Gaming Keyboard,Accessories,,,3534,293,4.2,10/20/2024
+284,Smart Watch,Accessories,4315,,,350,,10/24/2024
+285,Cotton Shirt,Fashion,443,,,303,3.6,9/5/2024
+286,Mixer Grinder,Accessories,2387,636,,195,3.5,9/8/2024
+287,Gaming Keyboard,Accessories,,,,201,,11/8/2024
+288,Smart Watch,Home,,5701,1362,27,,10/27/2024
+289,Study Table,Furniture,,5868,4968,177,,9/29/2024
+290,Running Shoes,Fashion,2748,3246,903,78,3.4,10/11/2024
+291,Cotton Shirt,Home,4932,1564,4521,432,3.7,11/26/2024
+292,Study Table,Home,329,402,,306,4.3,10/21/2024
+293,Headphones,Home,4894,,3434,48,4.5,9/21/2024
+294,Running Shoes,Fashion,,,,40,,10/1/2024
+295,LED Bulb Pack,Furniture,,,5969,115,4.6,11/19/2024
+296,Wireless Mouse,Accessories,,,,40,3.6,9/3/2024
+297,Laptop Bag,Fashion,2323,5459,790,217,,11/20/2024
+298,Laptop Bag,Furniture,5720,,5284,215,,9/4/2024
+299,Laptop Bag,Accessories,5839,,,205,4.6,11/10/2024
+300,Desk Lamp,Electronics,,991,5519,195,4.8,11/5/2024
+301,LED Bulb Pack,Furniture,,2243,,225,,10/1/2024
+302,Water Bottle,Accessories,,5547,,392,3.9,10/30/2024
+303,Gaming Keyboard,Accessories,1101,,2150,23,4.5,9/11/2024
+304,Laptop Bag,Electronics,4508,3514,5463,299,4.2,10/1/2024
+305,Backpack,Accessories,646,,,81,,11/6/2024
+306,Laptop Bag,Home,1333,5768,5304,146,4.7,9/13/2024
+307,Wall Clock,Electronics,2888,,,422,4.2,11/11/2024
+308,LED Bulb Pack,Electronics,,2223,4257,139,4.4,10/3/2024
+309,Wall Clock,Accessories,,,,172,3.2,11/10/2024
+310,Smart Watch,Fashion,,,2005,477,4.7,9/25/2024
+311,Office Chair,Home,5040,5054,3503,85,,9/7/2024
+312,Office Chair,Accessories,5291,,,287,3.4,10/17/2024
+313,Smart Watch,Accessories,,,,403,3.7,9/28/2024
+314,Smart Watch,Accessories,3059,,4308,139,4.3,11/11/2024
+315,Mobile Cover,Home,5352,4741,,343,4.1,11/18/2024
+316,Study Table,Electronics,1031,,2449,187,3.5,9/3/2024
+317,Laptop Bag,Home,,,,308,4.2,11/21/2024
+318,Mixer Grinder,Home,1125,,,153,3.4,11/23/2024
+319,Running Shoes,Accessories,,4804,,236,3.1,11/24/2024
+320,Yoga Mat,Fashion,5794,,3380,209,,9/26/2024
+321,Wall Clock,Accessories,3278,,,85,,9/17/2024
+322,Electric Kettle,Electronics,,1670,,282,3.7,11/13/2024
+323,Mixer Grinder,Electronics,,,4834,53,4.6,10/17/2024
+324,Laptop Bag,Accessories,,,3267,306,4.6,10/27/2024
+325,Study Table,Electronics,,5542,,368,4.1,9/21/2024
+326,Mixer Grinder,Fashion,,,2875,159,,11/5/2024
+327,Office Chair,Electronics,3986,,5537,118,4.3,10/11/2024
+328,Yoga Mat,Furniture,2008,,,453,,11/18/2024
+329,Bluetooth Speaker,Home,4329,860,,101,4.7,10/5/2024
+330,Gaming Keyboard,Fashion,,,1199,210,,11/28/2024
+331,Headphones,Electronics,5046,,,48,4.5,11/10/2024
+332,Gaming Keyboard,Furniture,,,2094,154,,9/21/2024
+333,Wireless Mouse,Fashion,,3064,5022,451,,9/6/2024
+334,Cotton Shirt,Fashion,,698,,422,,11/15/2024
+335,Wall Clock,Home,,864,,385,,11/3/2024
+336,Wall Clock,Electronics,,3028,,407,,9/22/2024
+337,Electric Kettle,Accessories,,5860,2683,72,4,10/21/2024
+338,Bluetooth Speaker,Furniture,5707,2792,,481,3.1,11/9/2024
+339,Gaming Keyboard,Furniture,2795,,,422,,11/26/2024
+340,Electric Kettle,Electronics,1850,782,,45,4,11/19/2024
+341,Mixer Grinder,Accessories,5743,,749,260,3.4,11/2/2024
+342,Mobile Cover,Accessories,,1853,4337,339,4.1,9/12/2024
+343,Bluetooth Speaker,Fashion,5721,,,448,,11/5/2024
+344,Electric Kettle,Furniture,5308,1829,,337,4.5,11/2/2024
+345,Power Bank,Furniture,3354,2739,,4,,9/19/2024
+346,Desk Lamp,Furniture,,3113,602,475,,11/26/2024
+347,Cotton Shirt,Home,,4560,,6,3.4,10/31/2024
+348,Water Bottle,Furniture,,,3178,208,,9/18/2024
+349,Laptop Bag,Fashion,1765,,,440,,10/31/2024
+350,Study Table,Fashion,,,,466,4.6,11/27/2024
+351,Smart Watch,Electronics,,,,480,4.4,9/14/2024
+352,Backpack,Home,364,5650,1479,195,3.9,10/21/2024
+353,Desk Lamp,Accessories,4485,2236,4819,406,,10/15/2024
+354,LED Bulb Pack,Accessories,1378,,589,148,4.3,9/27/2024
+355,Mixer Grinder,Home,4802,1468,1547,86,3.4,9/19/2024
+356,Smart Watch,Furniture,,972,,87,3.2,9/26/2024
+357,Mobile Cover,Furniture,,,4955,52,4,10/26/2024
+358,Wall Clock,Fashion,,1401,,113,,11/22/2024
+359,Office Chair,Home,,,,157,,11/23/2024
+360,Power Bank,Home,4600,5268,1012,167,4.7,10/20/2024
+361,Headphones,Furniture,,,,379,3.6,10/27/2024
+362,LED Bulb Pack,Furniture,,3024,,198,,9/14/2024
+363,Headphones,Furniture,,,,199,,9/17/2024
+364,Smart Watch,Home,1870,5407,4420,350,,10/13/2024
+365,Backpack,Furniture,1691,1321,1039,225,4.1,10/11/2024
+366,Wireless Mouse,Accessories,1287,,,159,,9/11/2024
+367,Laptop Bag,Accessories,,1743,,452,,10/10/2024
+368,Running Shoes,Home,,5911,304,144,3.5,9/15/2024
+369,Electric Kettle,Home,2528,3643,,373,,10/18/2024
+370,Desk Lamp,Home,2327,,,228,,11/17/2024
+371,Electric Kettle,Accessories,5257,1093,4131,32,,10/7/2024
+372,Backpack,Home,2853,3749,5513,410,4.2,10/23/2024
+373,Backpack,Home,368,672,1441,144,3.8,11/28/2024
+374,Backpack,Fashion,,,1523,249,4.3,9/1/2024
+375,Wireless Mouse,Electronics,,,1677,192,4.7,11/30/2024
+376,Smart Watch,Furniture,,850,652,48,,10/4/2024
+377,Laptop Bag,Fashion,1229,,5665,258,3.7,9/12/2024
+378,Cotton Shirt,Home,2225,,4821,483,4.5,9/23/2024
+379,Yoga Mat,Accessories,,4413,4480,287,,9/28/2024
+380,Smart Watch,Home,,1323,538,58,4.7,9/4/2024
+381,Laptop Bag,Furniture,5448,,5618,458,4.8,10/27/2024
+382,Desk Lamp,Accessories,1942,,5971,323,,9/12/2024
+383,Wireless Mouse,Furniture,,,4568,283,,9/21/2024
+384,Electric Kettle,Home,5361,5051,,88,4.4,11/7/2024
+385,Smart Watch,Furniture,,,,481,4.7,9/28/2024
+386,Mixer Grinder,Electronics,4585,4345,3755,305,,10/12/2024
+387,Laptop Bag,Fashion,,,5936,321,3.2,9/19/2024
+388,Power Bank,Furniture,1030,,4703,88,3.7,10/12/2024
+389,Power Bank,Home,,,,217,3.6,11/21/2024
+390,Wireless Mouse,Furniture,,1313,1545,96,4.1,11/12/2024
+391,Desk Lamp,Home,,,4174,453,,9/7/2024
+392,Water Bottle,Electronics,5437,,5182,124,4.6,10/25/2024
+393,Mixer Grinder,Home,,3576,2235,74,4.3,10/3/2024
+394,LED Bulb Pack,Accessories,2559,4409,5253,366,3.5,10/22/2024
+395,Office Chair,Accessories,4586,3078,1479,468,,9/21/2024
+396,Backpack,Accessories,,3621,,42,,10/17/2024
+397,Gaming Keyboard,Furniture,3444,741,5252,75,4.6,11/2/2024
+398,Bluetooth Speaker,Furniture,268,2337,2864,348,4,9/26/2024
+399,Running Shoes,Fashion,4285,,1651,167,,9/1/2024
+400,Wireless Mouse,Fashion,2670,,,373,3.6,11/29/2024
+401,Wall Clock,Furniture,1008,,,200,,11/12/2024
+402,Water Bottle,Fashion,,4643,,55,4.5,10/29/2024
+403,Wireless Mouse,Furniture,,,3540,283,,11/6/2024
+404,Cotton Shirt,Accessories,4351,1977,,25,,10/8/2024
+405,Power Bank,Furniture,,2650,,22,,9/24/2024
+406,Laptop Bag,Home,,3689,,256,3.7,10/10/2024
+407,Water Bottle,Home,5097,1336,,421,3.2,10/6/2024
+408,LED Bulb Pack,Electronics,1646,,,331,3,10/18/2024
+409,Water Bottle,Furniture,,5937,,355,,11/13/2024
+410,Laptop Bag,Furniture,1725,,,463,3.4,10/8/2024
+411,Office Chair,Home,1028,4511,,134,4.8,9/2/2024
+412,Mixer Grinder,Fashion,1959,,3194,170,,9/12/2024
+413,Mixer Grinder,Home,,,3612,72,,10/5/2024
+414,Mobile Cover,Accessories,3637,,5513,326,3.3,9/21/2024
+415,Gaming Keyboard,Fashion,1280,,3576,293,4.7,10/5/2024
+416,Electric Kettle,Home,,,,189,3.9,10/22/2024
+417,Backpack,Electronics,343,,1213,31,,10/28/2024
+418,Water Bottle,Fashion,5984,,1973,367,,9/23/2024
+419,Running Shoes,Accessories,,,2076,179,4.6,11/3/2024
+420,Power Bank,Accessories,5101,,1285,155,,9/3/2024
+421,Laptop Bag,Furniture,,,5290,286,3.1,10/3/2024
+422,Power Bank,Electronics,,,,179,,9/11/2024
+423,Backpack,Furniture,208,2793,4737,476,4.8,9/6/2024
+424,Electric Kettle,Accessories,,,4920,442,,10/23/2024
+425,Power Bank,Furniture,,2918,,221,3.2,11/26/2024
+426,Yoga Mat,Electronics,330,4302,,233,,9/10/2024
+427,LED Bulb Pack,Home,5546,520,4602,43,4.3,11/5/2024
+428,Backpack,Fashion,,3888,643,377,4.7,11/4/2024
+429,Water Bottle,Furniture,3577,1328,,465,,10/17/2024
+430,Backpack,Furniture,,3551,3090,188,3.7,10/4/2024
+431,Running Shoes,Fashion,,,4998,173,,10/12/2024
+432,Water Bottle,Fashion,268,2451,,324,,10/14/2024
+433,Headphones,Electronics,4980,5389,,236,,11/23/2024
+434,Mobile Cover,Electronics,,2668,3501,155,,10/5/2024
+435,Electric Kettle,Fashion,4972,,286,308,,11/27/2024
+436,Wall Clock,Fashion,,3645,,111,,11/16/2024
+437,Office Chair,Accessories,,,5831,400,3.9,10/2/2024
+438,Desk Lamp,Accessories,3281,365,,291,,10/1/2024
+439,Office Chair,Accessories,,,,226,,11/6/2024
+440,Backpack,Fashion,5677,,,62,,9/13/2024
+441,Mobile Cover,Accessories,1056,5087,4292,72,,9/10/2024
+442,Mobile Cover,Home,,,,8,,11/3/2024
+443,Wall Clock,Fashion,,,1740,175,,10/29/2024
+444,Backpack,Furniture,,,1050,285,3.6,10/14/2024
+445,Cotton Shirt,Fashion,,3005,5167,369,,10/26/2024
+446,Mixer Grinder,Furniture,4674,,,48,4,9/27/2024
+447,Mixer Grinder,Accessories,,,4675,290,3.1,9/29/2024
+448,Bluetooth Speaker,Accessories,5866,,,142,4.1,9/13/2024
+449,Power Bank,Furniture,,,,368,,9/5/2024
+450,Cotton Shirt,Furniture,,,5257,26,3.7,9/5/2024
+451,Cotton Shirt,Accessories,4568,,1214,189,3.1,10/7/2024
+452,Laptop Bag,Electronics,4930,,,131,,10/24/2024
+453,Running Shoes,Fashion,1666,3575,,322,,10/27/2024
+454,Laptop Bag,Electronics,,4074,,256,4.3,9/17/2024
+455,Wall Clock,Accessories,,,4064,138,3.4,10/23/2024
+456,Study Table,Home,,2200,,475,,10/22/2024
+457,Wall Clock,Furniture,1063,2762,,166,4.5,11/20/2024
+458,Wall Clock,Furniture,3724,,,158,4.7,9/24/2024
+459,Mixer Grinder,Accessories,3239,1397,4770,471,,9/22/2024
+460,Headphones,Fashion,5084,3962,1401,134,3.3,10/8/2024
+461,Laptop Bag,Electronics,,712,,464,3.2,10/8/2024
+462,Yoga Mat,Furniture,4629,5891,,286,,9/20/2024
+463,Office Chair,Fashion,3200,2422,4551,464,3.8,10/29/2024
+464,Bluetooth Speaker,Accessories,,5769,,480,,9/11/2024
+465,Mixer Grinder,Furniture,,,1924,430,,9/3/2024
+466,Gaming Keyboard,Accessories,4154,1906,3460,260,4.6,10/11/2024
+467,Mobile Cover,Home,,503,,408,,10/4/2024
+468,Desk Lamp,Furniture,,,,362,3.1,11/7/2024
+469,Backpack,Electronics,3030,,3210,224,4.6,10/27/2024
+470,Gaming Keyboard,Home,,,,67,3.8,11/6/2024
+471,Wall Clock,Accessories,,,,485,3.5,11/1/2024
+472,Bluetooth Speaker,Electronics,,,,244,,10/29/2024
+473,Wireless Mouse,Accessories,2873,,,4,,9/5/2024
+474,Water Bottle,Furniture,,,,94,3.2,10/15/2024
+475,Headphones,Fashion,1726,,1413,107,,10/5/2024
+476,Wall Clock,Home,4564,,4036,170,4.2,10/8/2024
+477,Electric Kettle,Electronics,,5851,751,208,4.6,9/2/2024
+478,Cotton Shirt,Fashion,5519,,2523,333,,10/22/2024
+479,Wireless Mouse,Electronics,,,4796,314,,9/4/2024
+480,Water Bottle,Furniture,1185,,5499,287,,11/26/2024
+481,Wireless Mouse,Electronics,,1469,,478,,9/8/2024
+482,Wall Clock,Accessories,,,4218,153,,10/23/2024
+483,Wall Clock,Accessories,,240,5092,252,,11/29/2024
+484,Power Bank,Furniture,,2923,,331,3.4,11/7/2024
+485,Mobile Cover,Fashion,,5441,722,218,4.6,11/8/2024
+486,Bluetooth Speaker,Home,,,4600,281,3.8,10/29/2024
+487,Power Bank,Home,,,,145,4.4,10/5/2024
+488,Study Table,Accessories,2496,,,27,3.7,10/13/2024
+489,Bluetooth Speaker,Furniture,2637,2669,,300,3.3,11/4/2024
+490,LED Bulb Pack,Home,1077,3470,4690,201,,9/14/2024
+491,Mixer Grinder,Furniture,3032,,5129,46,,11/2/2024
+492,Power Bank,Electronics,,3285,2262,99,4.4,10/29/2024
+493,Running Shoes,Furniture,1785,,,185,,10/11/2024
+494,Water Bottle,Furniture,,990,3611,19,3.6,10/26/2024
+495,Headphones,Fashion,401,4556,,371,,11/27/2024
+496,Cotton Shirt,Furniture,,,5926,43,4.1,11/12/2024
+497,Laptop Bag,Home,,4345,3843,233,,11/25/2024
+498,Mobile Cover,Furniture,5360,,,11,3.2,10/27/2024
+499,Smart Watch,Electronics,4202,4269,3547,17,,10/30/2024
+500,Electric Kettle,Electronics,4102,918,2510,388,4.5,9/22/2024
