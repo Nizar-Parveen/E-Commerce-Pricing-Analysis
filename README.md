@@ -121,6 +121,3 @@ Generated charts using Matplotlib:
 * Developed pricing optimization strategy
 
 ---
-
-
-Give a ⭐ on GitHub!
